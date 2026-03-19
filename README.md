@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Harsh09-A
-- 👀 I’m interested in make new projects
-- 🌱 I’m currently learning pyhton
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me 
+# Hey, I'm Harsh 👋
+
+A developer who loves turning ideas into code.
+Currently learning, building, and breaking things.
 
 
 <!---
